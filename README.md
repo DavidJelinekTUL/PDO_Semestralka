@@ -41,9 +41,18 @@
 - **Výnosy projektu**
 - **Náklady na údržbu**
 - **Náklady na provoz**
-- **Náklady z poruchy objektu**
-- Pokud nemám některé z vstupů, lze použít odhad na základě podobných projektů / ekonomických analýz.
+- **Náklady z poruchy objektu**    
+- Pokud neznáte některé z vstupů, lze použít expertní odhad na základě podobných projektů / ekonomických analýz.
 
+### **Nejdůležitější parametry**
+1. **Počáteční investiční suma**
+2. **Roční náklady na údržbu a provoz**
+     - V případě nedostatků vstupních informací o projektu, lze tyto hodnoty uvést v jedné sečtené sumě.
+3. **Plánovaná doba provozu**
+4. **Náklady způsobené poruchou objektu**
+     - Doporučený formát: Denní časové intervaly s náklady formátu [kč/den].
+5. **Hodnoty pohotovosti a jejich mezní náklady**
+     - Nutno uvést alespoň dvě dvojice Pohotovost-Mezní náklady
 ---
 
 ## **USE-CASES**
