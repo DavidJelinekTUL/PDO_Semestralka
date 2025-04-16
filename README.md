@@ -53,6 +53,22 @@
      - Doporučený formát: Denní časové intervaly s náklady formátu [kč/den].
 5. **Hodnoty pohotovosti a jejich mezní náklady**
      - Nutno uvést alespoň dvě dvojice Pohotovost-Mezní náklady
+     - Tímto způsobem je možné porovnávat několik nabídek různých dodavatelů
+---
+
+## **Metodologie výpočtů**
+### **Výpočet celkových nákladů**
+1. Zadej vstupní data.
+2. Kde hledat výstupy?
+3. Křivky popisující **mezní náklady × pohotovost objektu**.
+
+### **Výpočet nákladů způsobených poruchou objektu**
+#### **Nutné vstupy**
+1. Pohotovost [0.0 - 1.0] nabídky
+2. Časové intervaly a jejich náklady způsobené poruchou objektu
+
+#### **Způsob výpočtu**
+- Nástroj nejprve 
 ---
 
 ## **USE-CASES**
