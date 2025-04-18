@@ -4,6 +4,10 @@
 **Téma:** Zdymadlo Miřejovice – analýza spolehlivosti zvedání mostu
 
 ---
+**Ještě připravuji:**
+-  Návod přímo v nástroji (ještě měním samotný nástroj - musel bych pokaždé měnit i návod)
+
+---
 
 ## **Cílová skupina nástroje**
 - Zaměstnanci Povodí Vltavy s.p.
@@ -68,7 +72,21 @@
 2. Časové intervaly a jejich náklady způsobené poruchou objektu
 
 #### **Způsob výpočtu**
-- Nástroj nejprve 
+- Nástroj nejprve vypočte průměrný počet dní, kdy bude objekt v poruše.
+- Příklad: T = 1 rok, Pohotovost = 0.97
+- $(1-0.97)*365 = 11 $
+- Následně uživatel nástroje manuálně rozšíří tabulku pro výpočet nákladů způsobených poruchou.
+- Z každého intervalu nástroj následně vypočítá sečtenou částku nákladů.
+- Hodnoty z každého intervalu jsou následně sečteny v jednu sumu, pro jednu hodnotu pohotovosti.
+
+### **Výpočet celkových nákladů**
+#### **Nutné vstupy**
+1. Dle předešlého výpočtu částku sečtených nákladů způsobených poruchou objektu
+2. Částku počáteční investice v tabulce Hlavní hodnoty
+
+#### **Způsob výpočtu**
+- Nástroj sečte zadané částky jednotlivých druhů nákladů pro výpočet celkové sumy.
+  - Počáteční investice + Mezní pořizovací náklady n-té pohotovosti + Náklady na údržbu + Náklady způsobené poruchou
 ---
 
 ## **USE-CASES**
@@ -87,8 +105,8 @@
 - **MS Excel**
 
 ### **Požadavky na běh**
-- **MS Excel 2007 a výše**
+- **Tabulkové editory: MS Excel (2007 a vyšší), Only office, Libre Office**
 
 ---
 **Kontaktní údaje**
--  Email
+-  Můj mail
