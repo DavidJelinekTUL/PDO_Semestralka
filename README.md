@@ -5,7 +5,7 @@
 
 ---
 **Ještě připravuji:**
--  Návod přímo v nástroji (ještě měním samotný nástroj - musel bych pokaždé měnit i návod)
+-  Návod přímo v nástroji
 
 ---
 
