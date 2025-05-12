@@ -8,6 +8,8 @@ Nástroj se ovládá konfigurací **vstupních hodnot** podle aktuálního proje
 
 ---
 
+![Vhyba zobrazení obrázku](n1.png)
+
 ## Části vstupních polí
 
 ### 1. Hlavní hodnoty
@@ -49,4 +51,4 @@ Nástroj se ovládá konfigurací **vstupních hodnot** podle aktuálního proje
 | ❌ | `⛔ Intervaly nenavazují` | Chybějící návaznost |
 | ❌ | `⛔ Záporné číslo` | Neplatná hodnota |
 
-![Vhyba zobrazení obrázku](n1.png)
+
