@@ -16,4 +16,4 @@ Pro rychlou orientaci:
 - Žlutě označená pole = uživatelské vstupy
 - Bílé buňky = chráněné výstupy
 
-![Náhled rozhraní](bp_Jelinek.png)
+![Náhled rozhraní](bp_Jelinek.pdf)
