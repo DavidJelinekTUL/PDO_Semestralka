@@ -1,6 +1,6 @@
 ## Přehled výsledků
 
-![f](n2.png)
+![f](n22.png)
 
 Nástroj generuje dva hlavní typy výstupů:
 
