@@ -1,5 +1,7 @@
 ## Přehled výsledků
 
+![f](n2.png)
+
 Nástroj generuje dva hlavní typy výstupů:
 
 ### 1. Souhrnná tabulka nákladů
@@ -33,4 +35,4 @@ Nástroj navíc poskytuje:
 - Rozpis inflačních vlivů
 - Analýzu citlivosti na klíčové parametry
 
-![f](n2.png)
+
