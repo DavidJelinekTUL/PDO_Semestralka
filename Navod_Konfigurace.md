@@ -49,4 +49,4 @@ Nástroj se ovládá konfigurací **vstupních hodnot** podle aktuálního proje
 | ❌ | `⛔ Intervaly nenavazují` | Chybějící návaznost |
 | ❌ | `⛔ Záporné číslo` | Neplatná hodnota |
 
-![Vhyba zobrazení obrázku]([n1.png](https://imgur.com/a/FCL8U8S))
+![Vhyba zobrazení obrázku](n1.png)
