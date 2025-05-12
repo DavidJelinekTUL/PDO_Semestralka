@@ -27,8 +27,6 @@ Zobrazuje klíčové finanční ukazatele pro celou životnost objektu:
 2. **Šedá** - Čisté pořizovací náklady
 3. **Oranžová** - Náklady plynoucí z poruch
 
-> 📊 *Graf umožňuje rychlé vizuální porovnání ekonomické efektivity jednotlivých scénářů.*
-
 ### Doplňkové výstupy
 Nástroj navíc poskytuje:
 - Detailní roční projekce
