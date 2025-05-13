@@ -7,13 +7,13 @@
 
 ## Základní průvodce
 
-### 1. 🛠️ Konfigurace
-- [Nastavení vstupních parametrů](./Navod_Konfigurace.md)  
-  *Jak správně zadávat životnost, scénáře a parametry poruch*
-
-### 2. ▶️ Spuštění
+### 1. ▶️ Spuštění
 - [První spuštění nástroje](./Navod_Spusteni.md)  
   *Požadavky na software a postup otevření souboru*
+
+### 2. 🛠️ Konfigurace
+- [Nastavení vstupních parametrů](./Navod_Konfigurace.md)  
+  *Jak správně zadávat životnost, scénáře a parametry poruch*
 
 ### 3. 📊 Výsledky
 - [Čtení výstupů](./Navod_Zobrazeni_vysledku.md)  
