@@ -1,11 +1,7 @@
-# **PDO_Semestralka**
-
-## **Technická dokumentace k bakalářské práci**
+# **Technická dokumentace k bakalářské práci**
 **Téma:** Zdymadlo Miřejovice – analýza spolehlivosti zvedání mostu
 
-# Návody k použití nástroje
-
-## Základní průvodce
+## Návody k použití nástroje
 
 ### 1. ▶️ Spuštění
 - [První spuštění nástroje](./Navod_Spusteni.md)  
