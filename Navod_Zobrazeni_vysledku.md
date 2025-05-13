@@ -26,11 +26,3 @@ Zobrazuje klíčové finanční ukazatele pro celou životnost objektu:
 1. **Modrá** - Celkové investiční náklady
 2. **Šedá** - Čisté pořizovací náklady
 3. **Oranžová** - Náklady plynoucí z poruch
-
-### Doplňkové výstupy
-Nástroj navíc poskytuje:
-- Detailní roční projekce
-- Rozpis inflačních vlivů
-- Analýzu citlivosti na klíčové parametry
-
-
